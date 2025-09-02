@@ -1,12 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Erin Burks 
+email: burkserin562@gmail.com
+url: https://burkserin562-ctrl.github.io/Portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
-
+meta_author: Burks Erin
 # Google webmaster tools
 google_verify:
 
@@ -32,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Erin Burks
   location: Location
   social: Around the Web
   credits: Credits
@@ -42,14 +41,12 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/beau-gilbert93/
   - title: github
-    url: https://github.com/coachbeau
-
+    url: https://github.com/burkserin562-ctrl
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
-
+  email-url: mailto:burkserin562@gmail.com
 # Postal address (add as many lines as necessary)
-location:
+location: Meridian, Mississippi
   - line: Portland, Oregon
 
 # Credits content
